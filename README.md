@@ -10,7 +10,9 @@ Ce programme propose un jeu du pendu simple. L'utilisateur doit deviner un mot e
 - Format du fichier :
   Chaque mot doit être sur une ligne séparée.
   Exemple : mot
+  
             mot1
+  
             mot2
 
 - Règles :
